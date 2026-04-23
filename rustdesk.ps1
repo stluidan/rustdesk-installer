@@ -1,4 +1,3 @@
-﻿# Script: Install-RustDesk.ps1
 # Descripción: Instala la última versión de RustDesk en Windows
 # Uso: powershell -ExecutionPolicy Bypass -File Install-RustDesk.ps1
 
